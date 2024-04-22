@@ -1,0 +1,60 @@
+# Created at 2024-04-22T20:22:05.969
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'FATAL ERROR in native method: processing of -javaagent failed, processJavaStart failed'.
+
+# Created at 2024-04-22T20:22:05.972
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '#'.
+
+# Created at 2024-04-22T20:22:05.974
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '# A fatal error has been detected by the Java Runtime Environment:'.
+
+# Created at 2024-04-22T20:22:05.975
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '#'.
+
+# Created at 2024-04-22T20:22:05.977
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '#  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x00000244b929112d, pid=14356, tid=11932'.
+
+# Created at 2024-04-22T20:22:05.978
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '#'.
+
+# Created at 2024-04-22T20:22:05.979
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '# JRE version: OpenJDK Runtime Environment Corretto-11.0.22.7.1 (11.0.22+7) (build 11.0.22+7-LTS)'.
+
+# Created at 2024-04-22T20:22:05.981
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '# Java VM: OpenJDK 64-Bit Server VM Corretto-11.0.22.7.1 (11.0.22+7-LTS, mixed mode, tiered, compressed oops, g1 gc, windows-amd64)'.
+
+# Created at 2024-04-22T20:22:05.982
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '# Problematic frame:'.
+
+# Created at 2024-04-22T20:22:05.983
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '# v  ~StubRoutines::get_previous_fp'.
+
+# Created at 2024-04-22T20:22:05.986
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '#'.
+
+# Created at 2024-04-22T20:22:05.988
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '# No core dump will be written. Minidumps are not enabled by default on client versions of Windows'.
+
+# Created at 2024-04-22T20:22:05.989
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '#'.
+
+# Created at 2024-04-22T20:22:05.990
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '# An error report file with more information is saved as:'.
+
+# Created at 2024-04-22T20:22:06.043
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '# C:\Users\����\qa_java\hs_err_pid14356.log'.
+
+# Created at 2024-04-22T20:22:06.058
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'Could not load hsdis-amd64.dll; library not loadable; PrintAssembly is disabled'.
+
+# Created at 2024-04-22T20:22:06.059
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '#'.
+
+# Created at 2024-04-22T20:22:06.060
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '# If you would like to submit a bug report, please visit:'.
+
+# Created at 2024-04-22T20:22:06.073
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '#   https://github.com/corretto/corretto-11/issues/'.
+
+# Created at 2024-04-22T20:22:06.074
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '#'.
+
